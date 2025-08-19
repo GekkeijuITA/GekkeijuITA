@@ -4,7 +4,7 @@ I'm a computer science student at the University of Genoa with a strong passion 
 
 🌱 Currently, I'm working on my bachelor's thesis: an implementation of the classic **Pac-Man** game using the **SFML 3.0** graphics library and `C++`.
 
-🔭 I'm particularly interested in the fields of **Augmented Reality (AR)** and **Virtual Reality (VR)**, and I'm actively looking for new opportunities in this space.
+🔭 I'm particularly interested in the fields of **Augmented Reality (AR)** and **Virtual Reality (VR)**.
 
 ---
 
