@@ -24,6 +24,12 @@ I'm currently focused on my bachelor's thesis, which is allowing me to solidify 
 
 ---
 
+### Next steps
+
+I plan to expand my skills by exploring the `C# .NET` ecosystem. I also intend to study the [MISRA](https://misra.org.uk/misra-c-plus-plus/) guidelines to deepen my knowledge of best practices for writing safe and reliable code.
+
+---
+
 ### Let's Connect! 🤝
 
 * **LinkedIn:** [https://www.linkedin.com/in/lorenzo-livio-vaccarecci/](https://www.linkedin.com/in/lorenzo-livio-vaccarecci/)
