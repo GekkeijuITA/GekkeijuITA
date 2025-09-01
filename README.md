@@ -11,7 +11,7 @@ I'm a computer science student at the University of Genoa with a strong passion 
 ### My Skills 💻
 
 **Languages:**
-`C` `C++` `Java` `PHP` `JavaScript` `Python` `C#` `SQL`
+`C` `C++` `Java` `PHP` `JavaScript` `Python` `SQL`
 
 **Frameworks & Libraries:**
 `React` `Next.js` `Unity` `Tailwind` `Bootstrap`
@@ -20,7 +20,7 @@ I'm a computer science student at the University of Genoa with a strong passion 
 
 ### What I'm Learning 📚
 
-I'm expanding my front-end knowledge by studying the **Vue.js** framework.
+I'm currently focused on my bachelor's thesis, which is allowing me to solidify and deepen my knowledge of `C++`
 
 ---
 
