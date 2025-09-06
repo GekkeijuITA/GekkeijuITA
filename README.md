@@ -1,6 +1,6 @@
 # Hi there, I'm Lorenzo 👋
 
-I'm a computer science student at the University of Genoa with a strong passion for programming and immersive technologies.
+I'm a computer science student at the University of Genoa.
 
 🌱 Currently, I'm working on my bachelor's thesis: an implementation of the classic **Pac-Man** game using the **SFML 3.0** graphics library and `C++`.
 
