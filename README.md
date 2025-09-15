@@ -33,7 +33,7 @@ I plan to expand my skills by exploring the `C# .NET` ecosystem. I also intend t
 ### Let's Connect! 🤝
 
 * **LinkedIn:** [https://www.linkedin.com/in/lorenzo-livio-vaccarecci/](https://www.linkedin.com/in/lorenzo-livio-vaccarecci/)
-* **Website:** [https://lorenzovaccarecci.vercel.app](https://lorenzovaccarecci.vercel.app)
+* **Website:** [https://lorenzovaccarecci.com](https://lorenzovaccarecci.com)
 <!--
 **GekkeijuITA/GekkeijuITA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
